@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+H:\Java_Projects\Projet_02_new\debuggez-une-application-java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
