@@ -15,5 +15,4 @@ public interface ISymptomWriter {
      * @throws IOException Si une erreur se produit lors de l'écriture du fichier.
      */
 	void writeSymptomToFile(Map<String, Integer> symptomCountMap, String filepath) throws IOException;
-
 }
